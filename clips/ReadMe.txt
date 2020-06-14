@@ -1,0 +1,1 @@
+All the clips and the rendered videos will be saved here. 
